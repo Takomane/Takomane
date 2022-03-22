@@ -1,4 +1,5 @@
-<h1 align="center"> <img src="https://raw.githubusercontent.com/laudep/code-gif-generator/master/docs/img/generating.gif"> Howdy y'all, I'm Nick</h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/laudep/code-gif-generator/master/docs/img/generating.gif"> </h1>
+<h2 align="center"> Howdy y'all, I'm Nick </h2>
 <h3 align="center">Paralegal in the process of turning to a Developer with Vets who code.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=takomane" alt="takomane" /></a> </p>
